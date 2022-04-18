@@ -9,6 +9,7 @@ This repo contains my attempt at the lab work of the course "EEE F341 - Analog E
 5. Experiment 5 : Feedback Amplifiers
 6. Experiment 6 : Instrumentation and Programmable Gain Amplifiers
 7. Experiment 7 : Sallen-Key (VCVS) Active Filters
+8. Experiment 8 : Precision Circuits
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
