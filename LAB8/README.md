@@ -1,3 +1,3 @@
-## EXPERIMENT 9 : Sinusoidal and Non-sinusoidal Oscillators 
+## EXPERIMENT 8 : Precision Circuits
 
-AIM: To study the various sinusoidal and non-sinusoidal oscillators.
+AIM: To study various precision circuits using op-amps.
